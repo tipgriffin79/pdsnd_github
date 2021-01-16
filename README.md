@@ -5,7 +5,7 @@ January 16, 2021
 Post Python work on GitHub
 
 ### Description
-Bikeshare Data Analyzer, improving documentation and code, posting to GitHub
+Bikeshare Data Analyzer, improving documentation and code, posting to GitHub. It's a forking good time!
 
 ### Files used
 Golson-Bikeshare.py, README.md
