@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+January 16, 2021
 
 ### Project Title
-Replace the Project Title
+Post Python work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare Data Analyzer, improving documentation and code, posting to GitHub
 
 ### Files used
-Include the files used
+Golson-Bikeshare.py, README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Forked from: https://github.com/udacity/pdsnd_github
