@@ -90,7 +90,7 @@ def time_stats(df):
     start_time = time.time()
 
     # TO DO: display the most common month
-    print('The most common month is: ' + str(df['month'].mode()[0]))
+    print('The most common month is: {}'.format((df['month'].mode()[0])))
 
     # TO DO: display the most common day of week
     print('The most day is: ' + str(df['day_of_week'].mode()[0]))
@@ -186,7 +186,7 @@ def view_more(df):
         print(df.iloc[start_loc:end_loc])
         start_loc += 5
         end_loc += 5
-        view_display = input('Do you want to see 5 more? Enter yes or no\n').lower()
+        view_display = input('\nDo you want to see 5 more? Enter yes or no\n').lower()
         if view_display != 'yes':
             break
 
